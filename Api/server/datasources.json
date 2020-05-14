@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "FekerDB": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "formationangular",
+    "password": "",
+    "name": "FekerDB",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "formaAngular2019"
+    }
+  },
+  "defaultProject": "formaAngular2019",
+  "cli": {
+    "analytics": false
+  }
 }
